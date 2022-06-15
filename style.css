@@ -79,5 +79,7 @@ footer li {
 #footer {
     font-style: italic;
     margin-left: -62%;
+    display: block;
+    text-align: left;
 }
 
